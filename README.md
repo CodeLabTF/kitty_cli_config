@@ -1,4 +1,4 @@
-This is a starter config for kitty with many themes to choose from. Copy Paste bindings are set to be the same as desktop shorcuts.
+Kitty config + themes.
 
 
 Kitty themes :
