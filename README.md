@@ -12,16 +12,16 @@ Source Code
 
 or download just one theme:
 
-THEME=https://raw.githubusercontent.com/dexpota/kitty-themes/master/themes/3024_Day.conf
-wget "$THEME" -P ~/.config/kitty/kitty-themes/themes
+    THEME=https://raw.githubusercontent.com/dexpota/kitty-themes/master/themes/3024_Day.conf
+    wget "$THEME" -P ~/.config/kitty/kitty-themes/themes
 
 Choose a theme and create a symlink:
 
-cd ~/.config/kitty
-ln -s ./kitty-themes/themes/Floraverse.conf ~/.config/kitty/theme.conf
+    cd ~/.config/kitty
+    ln -s ./kitty-themes/themes/Floraverse.conf ~/.config/kitty/theme.conf
 
 Add this line to your kitty.conf configuration file:
-
-include ./theme.conf
+    
+    include ./theme.conf
 
 "
