@@ -1,8 +1,8 @@
-Source:
+Kitty themes :
 https://github.com/dexpota/kitty-themes
 
 
-Installation
+Themes installation instructions:
 Source Code
 
     If you want to download and use one of these theme you have two options:
