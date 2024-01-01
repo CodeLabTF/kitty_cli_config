@@ -3,7 +3,6 @@ https://github.com/dexpota/kitty-themes
 
 
 Themes installation instructions:
-Source Code
 
     If you want to download and use one of these theme you have two options:
         clone the entire kitty-themes repository:
