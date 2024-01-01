@@ -1,8 +1,8 @@
-Instructions:
+Source:
 https://github.com/dexpota/kitty-themes
 
 
-"Installation
+Installation
 Source Code
 
     If you want to download and use one of these theme you have two options:
@@ -24,4 +24,4 @@ Add this line to your kitty.conf configuration file:
     
     include ./theme.conf
 
-"
+
